@@ -1,4 +1,9 @@
-Welcome to Hearts Without Obstacles
+**Welcome to Hearts Without Obstacles App**
+
+The goal of the project:
++ Enabling disabled individuals to integrate into life more easily, socialize and receive help
++ Making life easier for people with disabilities
++ Increasing solidarity
 
 <!--
 
